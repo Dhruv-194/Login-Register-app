@@ -4,4 +4,4 @@ This is a Login and Register app which uses Firebase authentication for register
 This basic login-sign up app can be integrated anywhere in any app for authentication and management of users.
 
 # Screenshots of the App
-
+<img src="https://github.com/Dhruv-194/Login-Register-app/blob/master/Screenshots/Screenshot_20200323-014343.png" height = "400" width="200">  <img src="https://github.com/Dhruv-194/Login-Register-app/blob/master/Screenshots/Screenshot_20200323-014348.png" height="400" width="200" hspace="20">
